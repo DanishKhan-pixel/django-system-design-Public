@@ -1,0 +1,10 @@
+venv
+.env
+db.sqlite3
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+AGENTS.md
+system_design.md
+# clint_api_docs.md

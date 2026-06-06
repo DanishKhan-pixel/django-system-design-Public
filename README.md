@@ -4,6 +4,7 @@ A clean, regular Django REST Framework blog backend. This baseline focuses on fu
 
 ## Features
 
+
 - Custom user model with unique email addresses
 - Signup, JWT login, token refresh, and authenticated profile endpoints
 - Blog posts with draft/published status, slugs, category, tags, local cover image upload, and timestamps
